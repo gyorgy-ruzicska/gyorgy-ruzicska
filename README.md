@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at GBSolutions as a Data Scientist.
-- ⚡ Econometrics with Machine Learning will be published later this year in the series [Advanced Studies in Theoretical and Applied Econometrics](https://www.springer.com/series/5667)
-- 🌱 I’m currently learning data engineering and NLP
+- ⚡ Econometrics with Machine Learning will be published later this year in the series [Advanced Studies in Theoretical and Applied Econometrics](https://www.springer.com/series/5667).
+- 🌱 I’m currently learning data engineering and NLP.
 
 
 <!--
